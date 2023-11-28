@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158099857180",
+    "project_id": "mais-habil",
+    "storage_bucket": "mais-habil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158099857180:android:c24b4c8402d93741dca4d9",
+        "android_client_info": {
+          "package_name": "mais.habil.trabalho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYI7qHBp96G7IhOYKQRMpoil2MBmuWMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
